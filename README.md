@@ -103,10 +103,7 @@ npm run dev
 
 ## Team
 
-- **Sayed Abdul Qadar** — built by hand: Flutter UI, audio pipeline, scoring engine, Next.js dashboard
-
-Built raw, no comments, straight from the keyboard.
-
+- **Sayed Abdul Qadar** — Flutter UI, audio pipeline, scoring engine, Next.js dashboard
 
 ## Privacy
 
